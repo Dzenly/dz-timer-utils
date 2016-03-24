@@ -1,7 +1,7 @@
 'use strict';
 
 // Usage:
-//var timer = require('rv-common-utils/perf/timer');
+//var timer = require('timer-utils');
 //var timerObj = timer.startTimer('Time test');
 //[var str = ] timerObj.stopTimer([noLog]);
 
@@ -17,7 +17,7 @@ exports.timeDiffStr = function(startTime, digits) {
     var diff = process.hrtime(startTime);
     var elapsed = diff[0] * 1000 + diff[1] / 1e6;
     return elapsed.toFixed(digits).toString() + ' ms';
-}
+};
 
 /**
  * Запустить таймер.

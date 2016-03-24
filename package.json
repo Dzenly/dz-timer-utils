@@ -1,6 +1,6 @@
 {
   "name": "timer-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Timer utils.",
   "main": "index.js",
   "scripts": {

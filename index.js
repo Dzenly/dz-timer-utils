@@ -1,7 +1,7 @@
 'use strict';
 
 // Usage:
-//var timer = require('timer-utils');
+//var timer = require('dz-timer-utils');
 //var timerObj = timer.startTimer('Time test');
 //[var str = ] timerObj.stopTimer([noLog]);
 

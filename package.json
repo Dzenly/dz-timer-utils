@@ -1,5 +1,5 @@
 {
-  "name": "timer-utils",
+  "name": "dz-timer-utils",
   "version": "0.1.0",
   "description": "Timer utils.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Dzenly/timer-utils.git"
+    "url": "git+ssh://git@github.com/Dzenly/dz-timer-utils.git"
   },
   "keywords": [
     "timer"
@@ -16,7 +16,7 @@
   "author": "Dzenly <alexchem@yandex.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dzenly/timer-utils/issues"
+    "url": "https://github.com/Dzenly/dz-timer-utils/issues"
   },
-  "homepage": "https://github.com/Dzenly/timer-utils#readme"
+  "homepage": "https://github.com/Dzenly/dz-timer-utils#readme"
 }
